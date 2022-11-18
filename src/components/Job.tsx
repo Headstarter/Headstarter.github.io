@@ -45,7 +45,7 @@ class Job extends React.Component<{}, {items: Array<JobEntity>, DetailsLoaded: b
                     <div className="card-body">
                         <h5 className="card-title">{ e.name }</h5>
                         <p className="card-text">{ e._id }</p>
-                        <a href="#" className="btn btn-primary">Go somewhere</a>
+                        <a href="!#" className="btn btn-primary">Go somewhere</a>
                     </div>
                 </div>
             )
